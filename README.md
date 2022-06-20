@@ -24,3 +24,14 @@ for example
 
 I'm looking forward to your effort!
 # List of Hobby
+1. green curry
+2. Tofu Curry
+3. Natto Curry
+4. My curry
+5. ジャワカレー
+6. ボンカレー
+7. バターチキンカレー
+8. キーマカレー
+9. 金沢カレー
+10. ビーフカレー
+11. Lamb Masala
