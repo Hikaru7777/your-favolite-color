@@ -35,3 +35,5 @@ I'm looking forward to your effort!
 9. 金沢カレー
 10. ビーフカレー
 11. Lamb Masala
+
+カツカレー
