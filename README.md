@@ -32,22 +32,9 @@ Please write between the slashes.
 /Red
 /purple
 /Charcoal gray
-
 /purple
 /Green
 /white
 /yellow
 /red
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-
+/Blue
